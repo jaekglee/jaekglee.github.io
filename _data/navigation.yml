@@ -1,4 +1,9 @@
-- title: Blog
+- title: About Me
   url: /
-- title: About
+- title: Resume
   url: /about/
+- title: Skill
+  url: /skill/
+- title: Contact
+  url: /contact/
+

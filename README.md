@@ -113,10 +113,14 @@ Then, apply the theme by adding `data-theme="blue"` to the `<html>` element.
 You can create a file `_data/navigation.yml` to configure links to some pages. For example,
 
 ```yml
-- title: Blog
+- title: About Me
   url: /
-- title: About
+- title: Resume
   url: /about/
+- title: Skill
+  url: /skill/
+- title: Contact
+  url: /contact/
 ```
 
 ### Customizing Cover Image
