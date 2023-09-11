@@ -1,6 +1,6 @@
 ---
 layout: archive-taxonomies
 permalink: /tags/
-title: Certificate
+title: Tags
 type: tags
 ---

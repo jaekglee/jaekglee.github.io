@@ -154,13 +154,13 @@ Not Pure Poole supports posts archive by date, categories, and tags. For enablin
 
 ```yml
 - type: dates
-  title: Career
+  title: Dates
   url: /dates/
 - type: categories
-  title: Education & Experience
+  title: Categories
   url: /categories/
 - type: tags
-  title: Certificate
+  title: Tags
   url: /tags/
 ```
 
