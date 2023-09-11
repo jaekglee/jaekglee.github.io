@@ -160,7 +160,7 @@ Not Pure Poole supports posts archive by date, categories, and tags. For enablin
   title: Categories
   url: /categories/
 - type: tags
-  title: Tags
+  title: Education & Experience
   url: /tags/
 ```
 

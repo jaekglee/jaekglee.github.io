@@ -1,9 +1,9 @@
 - type: dates
   title: Career
   url: /dates/
-#- type: categories
+#- type: categoriess
 #  title: Categories
 #  url: /categories/
 - type: tags
-  title: Tags
+  title: Education & Experience
   url: /tags/
