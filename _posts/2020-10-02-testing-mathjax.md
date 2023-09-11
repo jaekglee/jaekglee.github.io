@@ -1,17 +1,21 @@
 ---
 layout: post
-title: Testing MathJax
-tags: mathjax
-math: true
-date: 2020-10-02 15:32 +0800
+title: 스카이웨어
+#tags: mathjax
+#math: true
+date: E-COMMERCE 사업팀 주임연구원 2년 (2021.05 ~ 2023.04 )
 ---
-Not Pure Poole supports [MathJax](https://www.mathjax.org/). You can enable it on a page by setting `math: true` in the front matter.
 
-An inline math: \\\(E=mc^2\\\).
+1. 매출 통계 분석 시스템 운영 유지보수 (Vue.js, node.js, Spring boot, PostgreSQL 사용)
+- 매출 데이터 이행 작업
+- 지점별 매출 자료 추출 및 송부
+- 매출 데이터 검증 및 정리
+- 오류 사항 및 사용자 편의 UI/UX 개선 작업
+- 배치 프로그램 등 실시간 모니터링 및 추가 개선 사항 처리
+- 조회 조건 및 쿼리 수정
+- 인증서 교체 작업
 
-A display math:
-
-$$
-i\hbar \frac{\partial \Psi}{\partial t} = -\frac{\hbar^2}{2m}
-\frac{\partial^2 \Psi}{\partial x^2} + V \Psi
-$$
+2. 세금계산서 유지보수 (javascript, spring, oracle 사용)
+- 모니터링
+- ip 변경(DB, Mail 등) 및 모듈 인증서 교체 작업 유지보수
+- 취약점 조치
