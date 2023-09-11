@@ -1,6 +1,6 @@
 ---
 layout: archive-taxonomies
 permalink: /categories/
-title: Categories
+title: Education & Experience
 type: categories
 ---
