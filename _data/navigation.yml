@@ -1,9 +1,7 @@
-- title: About Me
-  url: /about/
 - title: Resume
-  url: /about/
+  url: /
 - title: Skill
-  url: /skill/
+  url: /about/
 - title: Contact
   url: /contact/
 
